@@ -1,0 +1,6 @@
+@article{chew1990building,
+  title={Building Voronoi diagrams for convex polygons in linear expected time},
+  author={Chew, L Paul},
+  year={1990},
+  publisher={Dartmouth College, Department of Mathematics and Computer Science}
+}

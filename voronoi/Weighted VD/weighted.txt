@@ -1,0 +1,6 @@
+Title: An approach to simplifying point features on maps using the multiplicative weighted Voronoi diagram
+Author: Yan, Haowen ; Li, Jonathan
+Is Part Of: Journal of Spatial Science, 2013, pp.1-14 
+Language: English
+Identifier: ISSN: 1449-8596 ; E-ISSN: 1836-5655 ; DOI: http://dx.doi.org/10.1080/14498596.2013.815578 
+

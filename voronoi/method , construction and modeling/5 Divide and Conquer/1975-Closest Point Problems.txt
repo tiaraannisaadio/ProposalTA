@@ -1,0 +1,8 @@
+@inproceedings{shamos1975closest,
+  title={Closest-point problems},
+  author={Shamos, Michael Ian and Hoey, Dan},
+  booktitle={Foundations of Computer Science, 1975., 16th Annual Symposium on},
+  pages={151--162},
+  year={1975},
+  organization={IEEE}
+}
